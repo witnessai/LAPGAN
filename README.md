@@ -1,0 +1,1 @@
+Pytorch implementation of [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/abs/1506.05751)
