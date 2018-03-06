@@ -3,4 +3,4 @@ Pytorch implementation of [Deep Generative Image Models using a Laplacian Pyrami
 
 # Reference 
 * https://github.com/AaronYALai/Generative_Adversarial_Networks_PyTorch/tree/master/LAPGAN
-* [Complete architectural details of the paper] (https://gist.github.com/soumith/e3f722173ea16c1ea0d9)
+* You can see the [complete architectural details of the paper] (https://gist.github.com/soumith/e3f722173ea16c1ea0d9)
