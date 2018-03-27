@@ -217,7 +217,7 @@ def run_LAPGAN(n_level=3, n_epoch=1, batch_size=256, use_gpu=True,
     
     samples = LapGan_model.generate(n_sample)
     current_time = time.strftime('%Y-%m-%d %H%M%S')
-    samples = torch.Tensor(samples*3)
+    samples = torch.Tensor(samples)
     save_image(samples, './result/%s epoch%d.png'% (current_time, n_epoch), normalize=True)
     return samples.numpy()
 
